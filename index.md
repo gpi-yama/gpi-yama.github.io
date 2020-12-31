@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+This page is introduction of Ryohei Yamaguchi, ML engineer.
 
 # Menu
 - [Portfolio](./portfolio.md)
