@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Menu
 - [Portfolio](./portfolio.md)
 - [History](./history.md)
