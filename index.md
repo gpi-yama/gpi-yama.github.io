@@ -9,9 +9,9 @@ I'm working as a data scientist at Yahoo! JAPAN and developping systems related 
 <div style="text-align: center;">
 <i href="https://github.com/gpi-yama" class="fab fa-github"></i>
 &ensp;
-<i href="https://www.facebook.com/guchiryo" class="fa fa-facebook"></i>
+<i href="https://www.facebook.com/guchiryo" class="fab fa-facebook"></i>
 &ensp;
-<i href="https://www.linkedin.com/in/ryohei-yamaguchi-yjcp/" class="fa fa-linkedin"></i>
+<i href="https://www.linkedin.com/in/ryohei-yamaguchi-yjcp/" class="fab fa-linkedin"></i>
 &ensp;
 <i href="https://www.kaggle.com/gpiyama2119" class="fab fa-kaggle"></i>
 </div>
