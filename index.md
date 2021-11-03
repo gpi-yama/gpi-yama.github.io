@@ -2,16 +2,20 @@
 layout: default
 ---
 
-<div class="card">
+<!-- <div class="card">
   <img src="./icon.jpeg" alt="Ryohei" style="width:100%">
   <h1>Ryohei Yamaguchi</h1>
-  <p class="title">ML engineer & Secure computation engineer</p>
-  <p>Yahoo! Japan, Eaglys Inc.</p>
-</div>
+  <li><p class="title">ML engineer & Secure computation engineer</p></li>
+  <p>Yahoo! Japan, Eaglys Inc.</p> -->
+<!-- </div> -->
 <!-- |  ||
 | :-- | :-- |
 | <image src="./icon.jpeg" width=50>  | Ryohei Yamaguchi <br>ML engineer, Secure computation engineer. |
 | -->
+
+Ryohei Yamaguchi
+<br>
+ML engineer, Secure computation engineer.
 
 
 
