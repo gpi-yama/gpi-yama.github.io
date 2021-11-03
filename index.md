@@ -12,5 +12,5 @@ I'm working as a data scientist at Yahoo! JAPAN and developping systems related 
 &ensp;
 <a href="https://www.linkedin.com/in/ryohei-yamaguchi-yjcp/" class="fa fa-linkedin"></a>
 &ensp;
-<a href="https://www.kaggle.com/gpiyama2119" class="fa fa-kaggle"></a>
+<a href="https://www.kaggle.com/gpiyama2119" class="fab fa-kaggle"></a>
 </div>
