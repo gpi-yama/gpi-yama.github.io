@@ -1,7 +1,13 @@
 ---
 layout: default
 ---
-Ryohei Yamaguchi: ML engineer, Secure computation engineer.
+
+|  ||
+| :-- | :-- |
+| <image src="./icon.jpeg" width=50>  | Ryohei Yamaguchi <br>ML engineer, Secure computation engineer. |
+|
+
+
 
 # Profile
 I'm working as a data scientist at Yahoo! JAPAN and developping systems related to Auto Speech Recognition. In addition, I'm working as a Secure computation engineer at Eaglys and developping libraries and systems of Homomorphic Encryption. 
